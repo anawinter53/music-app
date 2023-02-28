@@ -10,3 +10,5 @@ This screen shows the song playing as well as other categories to explore new so
 There is also a Surprise Me! bubble for another random song.
 
 This is being worked on with HTML and CSS as a static screenshot of what this music app would look like at this stage.
+
+Icons used were from Flaticon.com

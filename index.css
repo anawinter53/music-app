@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    background-color: rgb(238, 238, 238);
 
 }
 
@@ -23,7 +24,6 @@ h2{
 
 body {
     margin: 0 auto;
-    padding: 0 auto;
     outline: solid 1px black;
     width:380px;
     height: 820px;
@@ -35,7 +35,8 @@ body {
 
   
 .main-circle {
-    background-color: rgba(186, 183, 183, 0.897);
+    background-color: rgba(102, 99, 99, 0.897);
+    opacity: 0.4;
     width: 300px;
     height: 300px;
     border-radius: 80%;
@@ -59,6 +60,7 @@ img.semicircle {
 
 .genre-circle {
     background-color: rgba(186, 183, 183, 0.897);
+    opacity: 0.5;
     width: 200px;
     height: 200px;
     border-radius: 80%;
@@ -70,6 +72,7 @@ img.semicircle {
 
 .country-circle {
     background-color: rgba(186, 183, 183, 0.897);
+    opacity: 0.5;
     width: 200px;
     height: 200px;
     border-radius: 80%;
@@ -81,6 +84,7 @@ img.semicircle {
 
 .artist-circle {
     background-color: rgba(186, 183, 183, 0.897);
+    opacity: 0.5;
     width: 200px;
     height: 200px;
     border-radius: 80%;
@@ -92,6 +96,7 @@ img.semicircle {
 
 .similar-artist-circle {
     background-color: rgba(186, 183, 183, 0.897);
+    opacity: 0.5;
     width: 200px;
     height: 200px;
     border-radius: 80%;
@@ -103,6 +108,7 @@ img.semicircle {
 
 .surprise-me-circle {
     background-color: rgba(137, 27, 27, 0.897);
+    opacity: 0.5;
     width: 200px;
     height: 200px;
     border-radius: 80%;

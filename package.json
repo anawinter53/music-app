@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is my first project as a Tech Trainee, making a screen for a music app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev": "node colours.js",
+    "erase": "rm -rf node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anawinter53/music-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anawinter53/music-app/issues"
+  },
+  "homepage": "https://github.com/anawinter53/music-app#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
